@@ -90,3 +90,5 @@ tldextract,BSD,John Kurkowski <john.kurkowski@gmail.com>
 translate,MIT,Terry Yin <terry.yinze@gmail.com>
 twilio,MIT,twilio <help@twilio.com>
 dropbox,MIT,Dropbox <dev-platform@dropbox.com>
+flask,flask-2.0.2
+spacytextblob,spacytextblob-3.0.1
